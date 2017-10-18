@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="test_aaaaaaaaaaa" language="en" table="x_xxx_test_aaaaaaaaaaa">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>test_aaaaaaaaaaa</label>
+            <language>en</language>
+            <name>x_xxx_test_aaaaaaaaaaa</name>
+            <plural>test_aaaaaaaaaaas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-18 17:25:07</sys_created_on>
+            <sys_id>a439a5474c310300ebed21132b3a4402</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>test_aaaaaaaaaaa</sys_name>
+            <sys_package display_value="xxx" source="x_xxx">01f829074c310300ebed21132b3a44eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="xxx">01f829074c310300ebed21132b3a44eb</sys_scope>
+            <sys_update_name>sys_documentation_x_xxx_test_aaaaaaaaaaa__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-18 17:25:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

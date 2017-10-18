@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="test_aaaaaaaaaaa" max_length="40" name="x_xxx_test_aaaaaaaaaaa" type="collection">
+        <element label="name" max_length="190" name="name" type="string"/>
+    </element>
+</database>
